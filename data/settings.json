@@ -63,5 +63,11 @@
   ],
   "showLanguage": false,
   "showRate": false,
-  "mirrorList": []
+  "mirrorList": [
+    {
+      "url": "https://nav.hgd1999.com/",
+      "icon": "",
+      "name": "新导航"
+    }
+  ]
 }
