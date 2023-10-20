@@ -28,21 +28,9 @@
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 350,
+  "simThemeHeight": 399,
   "simThemeAutoplay": true,
   "sideThemeImages": [
-    {
-      "src": "https://i-mg.oss-cn-hongkong.aliyuncs.com/qk-img/5e040912_6a17c887d6054e798c9c88f4ca76f932 (1) (1).jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://i-mg.oss-cn-hongkong.aliyuncs.com/qk-img/57750e9f_quicker_6669acab-226f-4c15-81e9-a74b73f4af21.png",
-      "url": "",
-      "width": null,
-      "height": null
-    },
     {
       "src": "https://i-mg.oss-cn-hongkong.aliyuncs.com/qk-img/aca72b64_quicker_b3848dc5-e282-4dd8-adea-787f6317c382.png",
       "url": "",
